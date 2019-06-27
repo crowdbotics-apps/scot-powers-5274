@@ -1,0 +1,3 @@
+rootProject.name = 'scot_powers_5274'
+
+include ':app'

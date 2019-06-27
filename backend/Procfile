@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT scot_powers_5274.wsgi:application
